@@ -1,0 +1,13 @@
+{
+    "patient_name": "_ 19/06/2003",
+    "dob": null,
+    "treatment_date": null,
+    "injection": "Yes",
+    "exercise_therapy": "Yes",
+    "difficulty_ratings": {
+        "bending": 5
+    },
+    "pain_symptoms": {
+        "pain": null
+    }
+}
